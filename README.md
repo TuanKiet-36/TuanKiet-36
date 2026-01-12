@@ -1,5 +1,5 @@
 
-## 🌐 Socials:
+## 🌐 Contact me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kiet.lehoaituan.7/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/le-hoai-tuan-kiet-729a0228b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kietlehoaituan36@gmail.com) 
 
 # 💻 Tech Stack:
