@@ -17,7 +17,7 @@
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kafka,redis,nginx,aws,gcp,scala" />
+  <img src="https://skillicons.dev/icons?i=kafka,redis,nginx,gcp,scala" />
 </p>
 
 <p>
